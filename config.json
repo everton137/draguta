@@ -1,12 +1,12 @@
 {
-  "logo": "🏛️",
+  "logo": "🐾",
   "nav": {
-    "title": "Philosophy Wiki"
+    "title": "Draguta"
   },
-  "favicon": "🏛️",
-  "showSidebar": true,
-  "title": "Philosophy Wiki",
+  "favicon": "🐾",
+  "showSidebar": false,
+  "title": "Draguta — Dog Sitter Wanted",
   "theme": {
-    "theme": "letterpress"
+    "theme": "default"
   }
 }
