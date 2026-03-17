@@ -1,14 +1,28 @@
 # Draguta 🐾
 
-A simple website to help find a loving dog sitter for Draguta.
+Help me to find a loving dog sitter for Draguta.
 
 ## About Draguta
 
-Draguta is a sweet, playful, and affectionate dog who loves belly rubs, long walks, and making new friends. She is well-behaved, house-trained, and gets along wonderfully with people of all ages.
+Draguta was adopted from Romania more than 2 years ago. She is a very calm and well behaved dog. She barely barks, so she is very quiet. It's difficult for her to walk with other people, thus we are looking for experienced dog sitters.
+
+We have made several classes with a dog trainer in the beginning and taught her several tricks. She is pretty food driven.
+
+<p align="center">
+  <img
+    src="https://pxscdn.com/public/m/_v2/514016997411501046/c6a394f69-21cf85/jlit3X6hsYFf/HQvHWnYOpO8O72Kx9F5qSYM9R5udg2yqHZpj5Ga6.png"
+    alt="My friend Draguta"
+    style="width: 60%; max-width: 500px; height: auto;"
+  />
+</p>
+
+## Care instructions
+
+She can get scared and try to attack: people skate boarding, joggers, inline skaters and children with erratic movements near her. Always in these case we put her closer to us by holding the leash shorter.
 
 ## Contact
 
 If you are interested in taking care of Draguta — or know someone who would be a great fit — please get in touch!
 
-- **Email:** contact@example.com
-- **Signal:** @draguta.owner
+- **Email:** dragutinha@pm.me
+- **Signal:** eza.81
