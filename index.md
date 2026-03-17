@@ -25,4 +25,4 @@ She can get scared and try to attack: people skate boarding, joggers, inline ska
 If you are interested in taking care of Draguta — or know someone who would be a great fit — please get in touch!
 
 - **Email:** dragutinha@pm.me
-- **Signal:** eza.81
+- **Signal:** [eza.81](https://signal.me/#eu/NT8Womo6KQo-bFRDNvED4p3Qq6pEkS2A4ZW1iWAIRh3xHBA7WHVC3YkV2XSQYAat)
