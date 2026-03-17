@@ -4,7 +4,7 @@ Help me to find a loving dog sitter for Draguta.
 
 ## About Draguta
 
-Draguta was adopted from Romania more than 2 years ago. She is a very calm and well behaved dog. She barely barks, so she is very quiet. It's difficult for her to walk with other people, thus we are looking for experienced dog sitters.
+Draguta was adopted from Romania more than four years ago. She is a very calm and well behaved dog. She barely barks, so she is very quiet. It's difficult for her to walk with other people, thus we are looking for experienced dog sitters.
 
 We have made several classes with a dog trainer in the beginning and taught her several tricks. She is pretty food driven.
 
