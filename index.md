@@ -14,6 +14,8 @@ We have made several classes with a dog trainer in the beginning and taught her 
     alt="My friend Draguta"
     style="width: 60%; max-width: 500px; height: auto;"
   />
+  <br />
+  <em><a href="https://pixelfed.social/c/690292556025971594">More photos</a></em>
 </p>
 
 ## Care instructions
